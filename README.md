@@ -1,1 +1,1 @@
-style-guide
+The style guide for SEEDA. Includes branding and web components.
